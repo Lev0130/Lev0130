@@ -3,7 +3,8 @@
 **Junior Python Developer**
 ## 🚀 Building, learning, and exploring Python & AI
 ---
-![Banner](images/chatgpt-image-2-abr-2026.png)
+![Banner](images/banner.png)
+
 
 I’m new to this field, but I can’t stop.
 
@@ -33,8 +34,8 @@ A command-line application to manage daily tasks with persistent JSON storage.
 
 👉 [View Project](https://github.com/Lev0130/CLI_Tasks)
 
-<!-- Optional screenshot -->
-<!-- ![CLI Task Manager](LINK_TO_IMAGE) -->
+![CLI Task Manager](images/Sin título.png)
+
 
 ---
 

@@ -1,6 +1,4 @@
-# 🦁 Hi, I'm Leo 👋
-
-**Junior Python Developer**
+# 🦁 Hi, I'm Leo 👋     **Junior Python Developer**
 ## 🚀 Building, learning, and exploring Python & AI
 ---
 ![Banner](images/banner.png)

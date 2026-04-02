@@ -3,7 +3,7 @@
 **Junior Python Developer**
 ## 🚀 Building, learning, and exploring Python & AI
 ---
-![Banner](images/chatgpt-image-2-abr-2026.png)
+![Banner](images/banner.png)
 
 I’m new to this field, but I can’t stop.
 

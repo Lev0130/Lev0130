@@ -34,7 +34,7 @@ A command-line application to manage daily tasks with persistent JSON storage.
 
 👉 [View Project](https://github.com/Lev0130/CLI_Tasks)
 
-![CLI Task Manager](images/Sin título.png)
+![CLI Task Manager](images/screenshot.png)
 
 
 ---

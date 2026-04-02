@@ -1,13 +1,14 @@
-# Hi, I'm Leo 👋
+# 🦁 Hi, I'm Leo 👋
 
 **Junior Python Developer**
-
+## 🚀 Building, learning, and exploring Python & AI
 ---
 
-## 🚀 About Me
+I’m new to this field, but I can’t stop.
 
-Passionate about problem solving and creating new useful programs to solve dayly matters, the more, the merier.
-Focused on developing with Python towards more skiled backend + IA in the close future.
+I’ve become addicted to solving problems and building useful, creative tools.
+
+My goal is to create these tools using AI. I believe we are at the beginning of a huge shift, full of opportunities, and I’m ready to explore and build within it.
 
 
 ---

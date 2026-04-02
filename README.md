@@ -5,6 +5,7 @@
 ---
 ![Banner](images/banner.png)
 
+
 I’m new to this field, but I can’t stop.
 
 I’ve become addicted to solving problems and building useful, creative tools.
@@ -33,8 +34,8 @@ A command-line application to manage daily tasks with persistent JSON storage.
 
 👉 [View Project](https://github.com/Lev0130/CLI_Tasks)
 
-<!-- Optional screenshot -->
-<!-- ![CLI Task Manager](LINK_TO_IMAGE) -->
+![CLI Task Manager](images/Sin título.png)
+
 
 ---
 

@@ -4,6 +4,7 @@
 ## 🚀 Building, learning, and exploring Python & AI
 ---
 ![Banner](images/ChatGPT Image 2 abr 2026, 17_04_18.png)
+
 I’m new to this field, but I can’t stop.
 
 I’ve become addicted to solving problems and building useful, creative tools.

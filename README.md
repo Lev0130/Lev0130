@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Leo
+# Hi, I'm Leo 👋
 
-**Junior Python Developer (CLI tools & data handling)**
+**Junior Python Developer**
 
 ---
 

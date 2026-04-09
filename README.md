@@ -73,7 +73,7 @@ Automatically organizes files into folders based on their extension.
 <!-- Replace with your links -->
 - GitHub: https://github.com/Lev0130
 - Email: leoshakhovcontacto@gmail.com
-- LinkedIn: [(https://www.linkedin.com/in/leo-shakhov-65aa6a241/)](https://www.linkedin.com/in/leo-shakhov-65aa6a241/)
+- LinkedIn: [Leo Shakhov](https://www.linkedin.com/in/leo-shakhov-65aa6a241/)
 
 ---
 

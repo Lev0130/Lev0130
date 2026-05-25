@@ -27,12 +27,20 @@ My goal is to create these tools using AI. I believe we are at the beginning of 
 
 ## 📂 Projects
 
+### 📧 Email Triage Assistant
+
+An AI-powered desktop application that helps organize, classify, and review emails more efficiently.
+
+👉 [View Project](https://github.com/Lev0130/Email_triage)
+
 ### 📝 CLI Task Manager
 A command-line application to manage daily tasks with persistent JSON storage.
 
 👉 [View Project](https://github.com/Lev0130/CLI_Tasks)
 
-![CLI Task Manager](images/screenshot.png)
+
+<img src="images/screenshot.png" alt="screenshot" width="400"/>
+
 
 
 ---
